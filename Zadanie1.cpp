@@ -24,6 +24,7 @@ int main() {
     cin >> str;
     cout << "\nYou entered:" << ' ' << x << "," << ' ' << ch << "," << ' ' << fl 
         << "," << ' ' << dbl<< "," << ' ' << bl  << "," << ' ' << str << ".\n";
+    cout << endl;
 }
 
 

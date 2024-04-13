@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Work\\Prakt\\Prakt_1\\Zadanie_1\\Zadanie1\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79EA5964-FA31-46B9-8149-31E872CB34BD}|Zadanie1.vcxproj|C:\\Work\\Prakt\\Prakt_1\\Zadanie_1\\Zadanie1\\Zadanie1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{79EA5964-FA31-46B9-8149-31E872CB34BD}|Zadanie1.vcxproj|solutionrelative:Zadanie1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie1.cpp",
+              "DocumentMoniker": "C:\\Work\\Prakt\\Prakt_1\\Zadanie_1\\Zadanie1\\Zadanie1.cpp",
+              "RelativeDocumentMoniker": "Zadanie1.cpp",
+              "ToolTip": "C:\\Work\\Prakt\\Prakt_1\\Zadanie_1\\Zadanie1\\Zadanie1.cpp",
+              "RelativeToolTip": "Zadanie1.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-13T19:16:51.289Z",
+              "EditorCaption": ""
             }
           ]
         }
